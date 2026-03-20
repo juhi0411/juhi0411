@@ -1,3 +1,4 @@
+![logo](https://github.com/juhi0411/juhi0411/blob/main/Banner.png)
 <h1 align="center">Hi 👋, I'm Juhi Sharma</h1>
 <h3 align="center">A passionat Software Developer</h3>
 
